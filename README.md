@@ -1,5 +1,5 @@
 # Diskjacker
-A proof of concept project which hijacks Hyper-Vs VM Exit at runtime using [DDMA](https://github.com/btbd/ddma).
+A proof of concept project which hijacks Hyper-Vs VM Exit handler at runtime using [DDMA](https://github.com/btbd/ddma).
 
 ## Video
 
@@ -28,4 +28,5 @@ Read at [readcc.net](https://readcc.net/posts/runtimehypervhijacking/), archived
 - https://github.com/SamuelTulach/SecureHack
 - https://github.com/btbd/ddma
 - https://github.com/cutecatsandvirtualmachines/DDMA
+
 
