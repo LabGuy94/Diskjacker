@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/5e02db13-113d-44e1-90cb-c199b70d3d06
 Read at [readcc.net](https://readcc.net/posts/runtimehypervhijacking/), archived at [archive.org](https://web.archive.org/web/20250000000000*/https://readcc.net/posts/runtimehypervhijacking/).
 
 ## Requirements
-1. AMD CPU with Virtualization Capabilities
+1. AMD CPU with Virtualization Capabilities (Intel support in theory possible)
 2. Windows 11 24H2 (requires offset update in `GetVmcb` function in `hyperv.hpp` otherwise)
 3. IOMMU Disabled
 4. Hyper-V Enabled
@@ -28,3 +28,4 @@ Read at [readcc.net](https://readcc.net/posts/runtimehypervhijacking/), archived
 - https://github.com/SamuelTulach/SecureHack
 - https://github.com/btbd/ddma
 - https://github.com/cutecatsandvirtualmachines/DDMA
+
