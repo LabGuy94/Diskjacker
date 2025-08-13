@@ -22,3 +22,9 @@ Read at [readcc.net](https://readcc.net/posts/runtimehypervhijacking/), archived
 3. Run loader passing kernel driver as parameter
 4. Run usermode
 5. Profit!
+
+## Resources
+- https://github.com/backengineering/Voyager
+- https://github.com/SamuelTulach/SecureHack
+- https://github.com/btbd/ddma
+- https://github.com/cutecatsandvirtualmachines/DDMA
